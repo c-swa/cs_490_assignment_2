@@ -11,3 +11,23 @@ This is the second assignment, where we create an HTML document, and a CSS docum
    - images at appropriate locations (should be clickable)
    - any relevant video/youtube video (embedded with controls)
   
+  ## The Source Files: 
+  - HTML Task:
+  *index.html* is located in the /~/ (home) directory of the repository. 
+  - CSS Task 1:
+  *index.html and style.css* are located in the _/Inclass/GoogleTask/_ directory of the repository.
+  - CSS Task 2:
+  *index.html and style.css* are located in the _/Inclass/ColorsTask/_ directory of the repository.
+
+## Video Explanation:
+In the repo, there is a video in the */Documentation/* directory of the repository, named: **ICP-2.mov**. 
+
+## Screenshots:
+There are 6 screenshots of the programming project, 2 screenshots for each portion. One screenshot of code,
+another screenshot of the output/result web page.
++ HTML Task
++ CSS Task 1 (Pseudo Google Page)
++ CSS Task 2 (Color Palette 
+
+## Questions/Comments?
+
