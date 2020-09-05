@@ -20,7 +20,7 @@ This is the second assignment, where we create an HTML document, and a CSS docum
   *index.html and style.css* are located in the _/Inclass/ColorsTask/_ directory of the repository.
 
 ## Video Explanation:
-In the repo, there is a video in the */Documentation/* directory of the repository, named: **ICP-2.mov**. 
+[![Video Explanation of Code](https://img.youtube.com/vi/F8HwRlB1E_E/0.jpg)](https://youtu.be/F8HwRlB1E_E "In Class Programming Assignment 2") 
 
 ## Screenshots:
 There are 6 screenshots of the programming project, 2 screenshots for each portion. One screenshot of code,
