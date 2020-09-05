@@ -29,5 +29,8 @@ another screenshot of the output/result web page.
 + CSS Task 1 (Pseudo Google Page)
 + CSS Task 2 (Color Palette 
 
-## Questions/Comments?
+## Wiki Page
+![Wiki is located at the top, and by clicking on this sentence.](https://github.com/c-swa/cs_490_assignment_2/wiki)
 
+## Questions/Comments?
+Get a-hold of me on Keybase.io: cswa
